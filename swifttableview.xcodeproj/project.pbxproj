@@ -102,6 +102,9 @@
 		3F4059E81FC2C06000CA3989 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					New,
+				);
 				LastSwiftUpdateCheck = 0830;
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = student;
