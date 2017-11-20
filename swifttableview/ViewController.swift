@@ -51,9 +51,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         let cell = tableView.dequeueReusableCell(withIdentifier: "MyCell", for: indexPath as IndexPath)
         cell.textLabel!.text = "\(animals[indexPath.row])"
         
-       // cell.imageView!.image = "\(animalsImage[indexPath.row])"
         
-        cell.vImage.image=[UIImage imageNamed:@"agon_logo.png"];
 
         return cell
         
